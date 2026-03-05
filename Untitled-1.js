@@ -1,4 +1,4 @@
-const characters = ["ben 10", "ben 10 2", "ben 10 3", "ben 10 4", "ben 10 5"];
+const characters = ["ben 10 11", "ben 10 12", "ben 10 13", "ben 10 14", "ben 10 15"];
 
 const dropdown = document.getElementById("characterSelect");
 const image = document.getElementById("characterImage");
